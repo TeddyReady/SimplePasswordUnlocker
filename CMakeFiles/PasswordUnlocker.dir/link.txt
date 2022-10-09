@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -Wall   CMakeFiles/PasswordUnlocker.dir/main.cpp.o CMakeFiles/PasswordUnlocker.dir/crc.c.o  -o PasswordUnlocker 
