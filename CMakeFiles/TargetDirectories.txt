@@ -1,3 +1,0 @@
-/home/kataich75/projects/hw2/CMakeFiles/edit_cache.dir
-/home/kataich75/projects/hw2/CMakeFiles/rebuild_cache.dir
-/home/kataich75/projects/hw2/CMakeFiles/PasswordUnlocker.dir

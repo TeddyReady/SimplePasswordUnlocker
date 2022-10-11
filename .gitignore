@@ -1,4 +1,7 @@
-MakeFile
+Makefile
+PasswordUnlocker
 *.cmake
 *.txt
-/CMakeFiles
+CMakeFiles/
+*.o
+*.exe
