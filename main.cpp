@@ -1,12 +1,10 @@
 #include <iostream>
-#include <cstring>
-#include "crc.h"
 #include "crypto.h"
 using namespace std;
 
 int main(){
-    const char* str("HelloWorld");
-	hash_type hash = crc64(str, strlen(str));
-	cout << hash << endl;
+    const char* str("BYaKa");
+
+	cout << "Your Password is " << passTable(crc64(str, strlen(str))) << endl;
 	return 0;
 }
