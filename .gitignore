@@ -1,0 +1,4 @@
+MakeFile
+*.cmake
+*.txt
+/CMakeFiles
